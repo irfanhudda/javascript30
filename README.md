@@ -2,5 +2,5 @@
 
 ||||
 |---|---|---|
-|JavaScript Drum Kit|[Notes](notes/javascript-drum-kit.md)|[Solution](#)|
+|JavaScript Drum Kit|[Notes](notes/01-javascript-drum-kit.md)|[Solution](solutions/01-javascript-drum-kit)|
 |CSS + JS Clock| | |
